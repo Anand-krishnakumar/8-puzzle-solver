@@ -26,8 +26,10 @@ Solve using:
 0.Exit Program 
 Enter the option:  3 
  Enter the 8-puzzle input in the following format 
- Example: 1 2 3 4 5 6 7 0 8 
-0 1 3 4 2 5 7 8 6 
+ Example: 1 2 3 4 5 6 7 0 8  
+
+0 1 3 4 2 5 7 8 6
+
 0 1 3
 4 2 5
 7 8 6 
